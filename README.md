@@ -5,7 +5,9 @@ The application extracts the Audible authentication code from an .aax file.
 ## Installation
 
 git clone https://github.com/clausgebel2/audibleAuthenticationCode.git
+
 chmod +x Install
+
 ./install
 
 ## Requirement
