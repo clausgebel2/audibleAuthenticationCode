@@ -1,5 +1,3 @@
-## About
-
 The application extracts the Audible authentication code from an .aax file.
 
 ## Requirement
